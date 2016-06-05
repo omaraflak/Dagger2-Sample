@@ -5,7 +5,6 @@ import android.widget.ImageView;
 
 import com.bumptech.glide.Glide;
 
-import javax.inject.Inject;
 
 /**
  * Created by Omar on 04/06/2016.
@@ -13,7 +12,6 @@ import javax.inject.Inject;
 public class ImageDownloader {
     private Context context;
 
-    @Inject
     public ImageDownloader(Context context) {
         this.context = context;
     }
