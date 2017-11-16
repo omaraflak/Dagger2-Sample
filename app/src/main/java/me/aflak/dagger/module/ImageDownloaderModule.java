@@ -3,6 +3,8 @@ package me.aflak.dagger.module;
 
 import android.content.Context;
 
+import javax.inject.Singleton;
+
 import dagger.Module;
 import dagger.Provides;
 import me.aflak.dagger.model.ImageDownloader;
@@ -18,12 +20,12 @@ public class ImageDownloaderModule {
         this.context = context;
     }
 
-    @Provides
+    @Provides @Singleton
     Context provideContext(){
-        return this.context;
+        return context;
     }
 
-    @Provides
+    @Provides @Singleton
     ImageDownloader provideImageDownloader(Context context){
         return new ImageDownloader(context);
     }

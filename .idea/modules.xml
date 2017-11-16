@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Dagger.iml" filepath="$PROJECT_DIR$/Dagger.iml" />
+      <module fileurl="file://C:\Users\Omar\Documents\JAVA\Dagger2-Sample\Dagger.iml" filepath="C:\Users\Omar\Documents\JAVA\Dagger2-Sample\Dagger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Dagger2-Sample.iml" filepath="$PROJECT_DIR$/Dagger2-Sample.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Omar\Documents\JAVA\Dagger2-Sample\app\app.iml" filepath="C:\Users\Omar\Documents\JAVA\Dagger2-Sample\app\app.iml" />
     </modules>
   </component>
 </project>
