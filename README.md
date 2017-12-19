@@ -1,6 +1,5 @@
-# Dagger 2 Android Sample
+# REPO MOVED
 
-This is a very simple example to show you how to use Dagger 2 with android.
-The application simply load an image into an ImageView via Glide or Picasso.
+Please check this link, it contains a more accurate example for Dagger2.
 
-https://github.com/omaflak/Dagger2-Sample/tree/master/app/src/main/java/me/aflak/dagger
+https://github.com/OmarAflak/Dagger2-CYS
